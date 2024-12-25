@@ -1,57 +1,33 @@
-# Official HDO Box Repository
+# Official HDO Box TV Repository
 This is the official repository for the HDO Box.
 
 ## Features
-- **Extensive Content Library**: Access a vast collection of movies and TV shows across various genres and languages. :contentReference[oaicite:0]{index=0}
-- **High-Quality Streaming**: Enjoy content in high-definition quality, with options up to 4K resolution. :contentReference[oaicite:1]{index=1}
-- **Advanced Native Player**: Utilize a built-in video player with features like playback speed control, gesture-based volume adjustments, and Picture-in-Picture mode. :contentReference[oaicite:2]{index=2}
-- **Ad-Free Experience**: Stream without interruptions from advertisements. :contentReference[oaicite:3]{index=3}
-- **Offline Viewing**: Download movies and TV series for offline viewing, with support for various resolutions. :contentReference[oaicite:4]{index=4}
-- **User-Friendly Interface**: Navigate easily with an intuitive and responsive design. :contentReference[oaicite:5]{index=5}
-- **Regular Updates**: Receive continuous updates to keep the app bug-free and content fresh. :contentReference[oaicite:6]{index=6}
+- **Vast Content Library**: Movies and TV shows across various genres and languages.
+- **High-Quality Streaming**: Enjoy content up to 4K resolution.
+- **Native Player**: Built-in player with playback controls and Picture-in-Picture mode.
+- **Offline Viewing**: Download movies and TV series for offline use.
+- **User-Friendly Interface**: Intuitive and responsive design.
 
 ## Installation Guide
 
 ### For Android Devices
-1. **Enable Unknown Sources**:
-   - Go to `Settings` > `Security`.
-   - Toggle on `Install unknown apps`.
-2. **Download the APK**:
-   - Open your browser and navigate to [hdo.app/tv](https://hdo.app/tv).
-   - Download the latest HDO Box APK.
-3. **Install the APK**:
-   - Locate the downloaded APK file and tap to install.
+1. Enable **Unknown Sources** in `Settings` > `Security`.
+2. Download the APK from [hdo.app/tv](https://hdo.app/tv).
+3. Install the APK.
 
 ### For Firestick/Fire TV
-1. **Install Downloader App**:
-   - From the main menu, search for and install the `Downloader` app.
-2. **Enable Apps from Unknown Sources**:
-   - Go to `Settings` > `My Fire TV` > `Developer Options`.
-   - Toggle on `Apps from Unknown Sources`.
-3. **Download and Install HDO Box**:
-   - Open the `Downloader` app.
-   - Enter the URL `hdo.app/tv` and click `Go`.
-   - Follow the on-screen instructions to install HDO Box.
+1. Install the **Downloader** app.
+2. Enable **Apps from Unknown Sources** in `Settings` > `My Fire TV` > `Developer Options`.
+3. Open **Downloader**, go to `hdo.app/tv`, and install the APK.
 
 ### For Android TV
-1. **Enable Unknown Sources**:
-   - Go to `Settings` > `Security & Restrictions`.
-   - Toggle on `Install unknown apps`.
-2. **Download the APK**:
-   - Open your browser and navigate to [hdo.app/tv](https://hdo.app/tv).
-   - Download the latest HDO Box APK.
-3. **Install the APK**:
-   - Locate the downloaded APK file and tap to install.
-
-For a visual guide on installing HDO Box on Android TV, you can refer to the following video:
-
-
-::contentReference[oaicite:7]{index=7}
-
+1. Enable **Unknown Sources** in `Settings` > `Security & Restrictions`.
+2. Download the APK from [hdo.app/tv](https://hdo.app/tv).
+3. Install the APK.
 
 ## Important Notes
-- **Please note**: HDO Box Plus is completely different from HDO Pro and is not connected to it in any way.
-- **Note**: While the official HDO Box does not support or condone what we do, it’s worth mentioning that HDO Box itself operates as a piracy app, thus already breaking some rules. Additionally, HDO PRO is a distinct project that prioritizes privacy and enhanced usability.
+- **HDO Box Plus** is different from **HDO Pro** and not connected in any way.
+- **HDO Box** operates as a piracy app, and **HDO Pro** is focused on privacy and usability.
 
 ## License
 Information about the license for the official HDO Box.
