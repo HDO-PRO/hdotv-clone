@@ -1,36 +1,169 @@
-# Official HDO Box TV Repository  
-This is the official repository for the HDO Box, not for HDO Pro.
+# 📺 HDO TV App Archive
 
-**- HDO Box is different from HDO Pro and not connected in any way.**
+> Official HDO Box TV application information, notes, and historical reference archive.
 
-## Features
-- **Vast Content Library**: Movies and TV shows across various genres and languages.
-- **High-Quality Streaming**: Enjoy content up to 4K resolution.
-- **Native Player**: Built-in player with playback controls and Picture-in-Picture mode.
-- **Offline Viewing**: Download movies and TV series for offline use.
-- **User-Friendly Interface**: Intuitive and responsive design.
+[![Status](https://img.shields.io/badge/Status-Archive-blue)](#)
+[![Platform](https://img.shields.io/badge/Platform-Android_TV-green)](#)
+[![Fire\_TV](https://img.shields.io/badge/Fire_TV-Supported-orange)](#)
+[![Community](https://img.shields.io/badge/HDO_PRO-Independent-red)](#)
 
-## Installation Guide
+---
 
-### For Android Devices
-1. Enable **Unknown Sources** in `Settings` > `Security`.
-2. Download the APK from [hdo.app/tv](https://hdo.app/tv).
-3. Install the APK.
+# 📌 About This Repository
 
-### For Firestick/Fire TV
-1. Install the **Downloader** app.
-2. Enable **Apps from Unknown Sources** in `Settings` > `My Fire TV` > `Developer Options`.
-3. Open **Downloader**, go to `hdo.app/tv`, and install the APK.
+This repository is maintained by the HDO PRO community for informational, archival, and historical reference purposes only.
 
-### For Android TV
-1. Enable **Unknown Sources** in `Settings` > `Security & Restrictions`.
-2. Download the APK from [hdo.app/tv](https://hdo.app/tv).
-3. Install the APK.
+**This is NOT an official HDO Box repository.**
 
-## Important Notes
-- **HDO Box** is different from **HDO Pro** and not connected in any way.
+The purpose of this repository is to preserve publicly available information, installation guides, version history, and community notes related to the HDO TV application.
 
-## License
-Information about the license for the official HDO Box.
+---
 
-**- HDO Box is different from HDO Pro and not connected in any way.**
+# ⚠️ Important Notice
+
+**HDO Box is different from HDO PRO and is not connected in any way.**
+
+HDO PRO is an independent community project and is not affiliated with, associated with, endorsed by, sponsored by, or connected to:
+
+* HDO Box
+* HDO TV
+* ON Player
+* Drama Player
+* Any official HDO Box developers
+
+---
+
+# 📺 What Is HDO TV?
+
+HDO TV is the Android TV and Fire TV optimized version of HDO Box.
+
+The TV edition is designed specifically for:
+
+* Android TV
+* Google TV
+* Amazon Fire TV
+* Firestick
+* Android TV Boxes
+
+It provides a remote-friendly interface and large-screen experience compared to the mobile version. Sources across the web describe it as supporting HD playback, TV-focused navigation, and Android TV compatibility.
+
+---
+
+# ✨ Reported Features
+
+Features commonly associated with HDO TV include:
+
+* Large movie and TV show library
+* Android TV optimized interface
+* Remote control navigation
+* HD and 1080p playback
+* Support for external players
+* Subtitle support
+* Picture-in-Picture support
+* Fire TV compatibility
+* Android TV compatibility
+* Regular updates from official developers
+
+Various third-party sources also report support for high-definition playback and Android TV optimization.
+
+---
+
+# 📥 Official Installation Information
+
+## Android TV
+
+1. Enable **Unknown Sources**
+2. Open a browser or Downloader
+3. Visit:
+
+https://hdo.app/tv
+
+4. Download and install the TV APK
+
+---
+
+## Firestick / Fire TV
+
+1. Install the Downloader app
+2. Enable Developer Options
+3. Open Downloader
+4. Visit:
+
+https://hdo.app/tv
+
+or use Downloader code:
+
+795281
+
+as referenced by official installation instructions.
+
+---
+
+# 🔍 Archive Resources
+
+## APK Search Archives
+
+* APKMirror
+* APKPure
+* Uptodown
+* APKCombo
+* AppBrain
+
+### Suggested Searches
+
+* HDO TV APK
+* HDO Box TV APK
+* HDO Android TV
+* HDO Firestick APK
+* HDO TV Download
+
+---
+
+# 🌐 Historical Resources
+
+## Official TV Page
+
+https://hdo.app/tv
+
+## Main Website
+
+https://hdo.app
+
+---
+
+# 📝 Community Notes
+
+Community discussions indicate that HDO TV has existed as a dedicated Android TV build for several years and is separate from the mobile version. Users commonly install it through Downloader on Fire TV and Android TV devices.
+
+Because information changes frequently, archived versions and installation methods may not always remain available.
+
+---
+
+# ⚠️ Disclaimer
+
+This repository:
+
+* Does NOT host APK files
+* Does NOT distribute software
+* Does NOT provide streaming content
+* Does NOT mirror downloads
+
+All trademarks, logos, application names, and copyrights belong to their respective owners.
+
+This repository exists solely for:
+
+* Documentation
+* Historical preservation
+* Community notes
+* Research
+* Reference purposes
+
+---
+
+# 🎬 HDO PRO Community Notice
+
+This repository is maintained by the HDO PRO community.
+
+It serves only as a memory archive and documentation project.
+
+**HDO Box, HDO TV, ON Player, and Drama Player are separate projects and are not affiliated with HDO PRO in any way.**
